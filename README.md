@@ -7,6 +7,22 @@ Codes are categorized by construction method. Click on the Hx/Hz links to downlo
 > **File Format:** All matrices are in [Matrix Market format](https://math.nist.gov/MatrixMarket/formats.html) (`.mtx`).  
 > **Need other formats?** Use `scripts/convert_format.py` to convert to NumPy, CSV, or alist.
 
+While using our database, please cite our paper:
+
+~~~
+@article{checkweightconstrainedquantumcodes,
+title={Check-weight-constrained quantum codes: Bounds and examples},
+author={Lily Wang and Andy Zeyi Liu and Ray Li and Aleksander Kubica and Shouzhen Gu},
+journal={arXiv preprint arXiv:[]},
+year={2026},
+doi={}
+}
+~~~
+
+**Authors:**
+
+Lily Wang, Andy Zeyi Liu, Ray Li, Aleksander Kubica, Shouzhen Gu.
+
 ---
 
 ## 1. Quantum Tanner Codes
