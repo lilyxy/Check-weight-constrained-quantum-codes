@@ -46,7 +46,7 @@ Codes are categorized by construction method. Click on the Hx/Hz links to downlo
 
 | ID | n | k | d | Max Weights | Avg Weights | X-PCM | Z-PCM | Notes / References |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| pk_code_169 | 416 | 18 | 22 | (8,4,8,4) | (8.0, 4.0, 8.0, 4.0) | [Hx](./codes/lifted_product/pk_code_169_n416_k18_d22_pcmX.mtx) | [Hz](./codes/lifted_product/pk_code_169_n416_k18_d22_pcmZ.mtx) | Panteleev-Kalachev (arXiv:2104.11340) |
+| pk_code_169 | 416 | 18 | 22 | (8,4,8,4) | (8.0, 4.0, 8.0, 4.0) | [Hx](./codes/lifted_product/pk_code_169_n416_k18_d22_pcmX.mtx) | [Hz](./codes/lifted_product/pk_code_169_n416_k18_d22_pcmZ.mtx) |  |
 | lp_B16_12 | 544 | 80 | 12 | (8,5,8,5) | (8.0, 3.53, 8.0, 3.53) | [Hx](./codes/lifted_product/lp_B16_12_n544_k80_d12_pcmX.mtx) | [Hz](./codes/lifted_product/lp_B16_12_n544_k80_d12_pcmZ.mtx) | arXiv:2308.08648 |
 | lp_B21_16 | 714 | 100 | 16 | (8,5,8,5) | (8.0, 3.53, 8.0, 3.53) | [Hx](./codes/lifted_product/lp_B21_16_n714_k100_d16_pcmX.mtx) | [Hz](./codes/lifted_product/lp_B21_16_n714_k100_d16_pcmZ.mtx) | arXiv:2308.08648 |
 | lcs_copies3 | 75 | 3 | 4 | (4,2,4,2) | (3.5, 1.68, 3.5, 1.68) | [Hx](./codes/lifted_product/lcs_copies3_n75_k3_d4_pcmX.mtx) | [Hz](./codes/lifted_product/lcs_copies3_n75_k3_d4_pcmZ.mtx) | - |
